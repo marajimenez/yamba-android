@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yamba</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button.tweet">Tweet</string>
+    <string name="hint.status">What\'s going on?</string>
+</resources>
